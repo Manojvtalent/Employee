@@ -1,0 +1,42 @@
+---------------------Exception Details  on   26-10-2023 16:27:06----------------------
+------------------------------------------------------------------------------------------------------
+
+
+
+Log Written Date :  26-10-2023 16:27:06
+
+ Error line No : pleted) Error Message : DivideByZeroException Error type : System.DivideByZeroException Error Location : Attempted to divide by zero.
+-------------------------------------------------------------------------------------------------------
+
+
+
+---------------------Exception Details  on   26-10-2023 16:33:13----------------------
+------------------------------------------------------------------------------------------------------
+
+
+
+Log Written Date :  26-10-2023 16:33:13
+
+ Error line No : pleted) Error Message : DivideByZeroException Error type : System.DivideByZeroException Error Location : Attempted to divide by zero.
+----------------------------------------------------*End---------------------------------------------------
+
+
+
+---------------------Exception Details  on   26-10-2023 16:37:53----------------------
+------------------------------------------------------------------------------------------------------
+
+
+
+Log Written Date :  26-10-2023 16:37:53
+
+ Error line No : pleted)
+
+ Error Message : DivideByZeroException
+
+ Error type : System.DivideByZeroException
+
+ Error Location : Attempted to divide by zero.
+----------------------------------------------------*End---------------------------------------------------
+
+
+
